@@ -9,8 +9,8 @@ Technical Track
 This workshop was prepared and presented by [Yasmine Abu Adla](https://lb.linkedin.com/in/yasmine-a-abu-adla-3b99471b6).
 
 2. Facial Emotion Recognition using Convolutional Neural Networks
-- [Presentation Slides]()
-- [Code (with exercises)]()
+- [Presentation Slides](https://drive.google.com/file/d/1gF8BPip1MaJaWvdo6Grn-AqSF2926bKc/view?usp=sharing)
+- [Code (with exercises)](https://drive.google.com/file/d/1bCbJtfig1T7RPI1Jj7eQESRiA5eTQ7TL/view?usp=sharing)
 - [Data files]() <br>
 This workshop was prepared and presented by [Malak Sayour]().
 
