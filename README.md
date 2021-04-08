@@ -10,9 +10,9 @@ This workshop was prepared and presented by [Yasmine Abu Adla](https://lb.linked
 
 2. Facial Emotion Recognition using Convolutional Neural Networks
 - [Presentation Slides](https://drive.google.com/file/d/1gF8BPip1MaJaWvdo6Grn-AqSF2926bKc/view?usp=sharing)
-- [Code (with exercises)](https://drive.google.com/file/d/1bCbJtfig1T7RPI1Jj7eQESRiA5eTQ7TL/view?usp=sharing)
+- [Code (with exercises)](https://drive.google.com/file/d/1l7UbeclqqRt-qQe0UzvaaGBlXlZ91Ymb/view?usp=sharing)
 - [Data files]() <br>
-This workshop was prepared and presented by [Malak Sayour]().
+This workshop was prepared and presented by [Malak Sayour](https://www.linkedin.com/in/malak-sayour-25700319a/).
 
 3. Arabic Sentiment Analysis using HuggingFace TransformersProcessing
 - [Presentation Slides]()
