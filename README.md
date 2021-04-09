@@ -18,7 +18,7 @@ This workshop was prepared and presented by [Malak Sayour](https://www.linkedin.
 - [Presentation Slides]()
 - [Code (with exercises)]()
 - [Data files]()  <br>
-This workshop was prepared and presented by [Wissam Antoun]().
+This workshop was prepared and presented by [Wissam Antoun](https://www.linkedin.com/in/wissamantoun/).
 
 
 NOTE: To edit any of the code scripts above, open the file in Google Colaboratory. Afterwards, go to "File" and "Save a copy in Drive". You will now be able to have a personal copy of the code to edit as needed.
