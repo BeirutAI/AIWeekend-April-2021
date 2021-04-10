@@ -15,9 +15,8 @@ This workshop was prepared and presented by [Yasmine Abu Adla](https://lb.linked
 This workshop was prepared and presented by [Malak Sayour](https://www.linkedin.com/in/malak-sayour-25700319a/).
 
 3. Arabic Sentiment Analysis using HuggingFace TransformersProcessing
-- [Presentation Slides]()
-- [Code (with exercises)]()
-- [Data files]()  <br>
+- [Presentation Slides](https://drive.google.com/file/d/1k-uAUIxcoutoXmEC9SMdUblvbtTM19VO/view?usp=sharing)
+- [Code (with exercises)](https://drive.google.com/file/d/1zi-MRLXgoBkkcWJy9b2bRVifU3UA_3mE/view?usp=sharing) <br>
 This workshop was prepared and presented by [Wissam Antoun](https://www.linkedin.com/in/wissamantoun/).
 
 
