@@ -18,9 +18,9 @@ This workshop was prepared and presented by [Malak Sayour](https://www.linkedin.
 
 3. Arabic Sentiment Analysis using HuggingFace TransformersProcessing
 - [Presentation Slides](https://drive.google.com/file/d/1k-uAUIxcoutoXmEC9SMdUblvbtTM19VO/view?usp=sharing)
-- [Code (with exercises)](https://drive.google.com/file/d/1zi-MRLXgoBkkcWJy9b2bRVifU3UA_3mE/view?usp=sharing) <br>
+- [Code (with exercises)](https://drive.google.com/file/d/1zi-MRLXgoBkkcWJy9b2bRVifU3UA_3mE/view?usp=sharing) 
+- [Code (with Solution)](https://drive.google.com/file/d/1UMfKj4o_VgcY6usnXepVlstrg0yqPzRx/view?usp=sharing) <br>
 This workshop was prepared and presented by [Wissam Antoun](https://www.linkedin.com/in/wissamantoun/).
-- [Code (with Solution)](https://drive.google.com/file/d/1UMfKj4o_VgcY6usnXepVlstrg0yqPzRx/view?usp=sharing)
 
 NOTE: To edit any of the code scripts above, open the file in Google Colaboratory. Afterwards, go to "File" and "Save a copy in Drive". You will now be able to have a personal copy of the code to edit as needed.
 
